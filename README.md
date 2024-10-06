@@ -1,6 +1,6 @@
 # flutter viz
 
-azspcs flutter viz for hex grid
+AZSPCS flutter viz for hex grid puzzle Balto's Puzzle
 
 [Link to contest](http://azspcs.com/Contest/BaltosPuzzle/)
 
